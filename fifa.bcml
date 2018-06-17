@@ -220,7 +220,7 @@
      //address: "yMzUo7mZQ8ZHAUhtoNQHZMJe8rTJZ3x1JR",
       address: "TPLXtp614r9Df8hdj34aaGGor4ef1che11",
       amount: 10000000000,  // 1 TRVC = 100,000,000
-      message: 'FIFA TEAM',
+      message: 'Put your Nickname 昵称',
       identifier: "446f7261"
     };
 
